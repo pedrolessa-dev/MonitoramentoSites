@@ -1,0 +1,5 @@
+https://httpstat.us/200
+https://httpstat.us/404
+https://httpbin.org/status/500
+https://httpbin.org/status/403
+https://httpbin.org/status/200
